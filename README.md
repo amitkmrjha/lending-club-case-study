@@ -16,7 +16,7 @@ Charged-off customers are the primary contributors to these losses.
 
 ## General Information
 This case study aims to identify high-risk applicants using exploratory data analysis (EDA) to help reduce credit losses.By understanding key factors behind loan defaults, Company can improve risk assessment and refine its loan approval strategy.Researching risk analytics will provide further insights into significant variables affecting defaults
-## Business Problem  
+
 The key challenge for Company is **minimizing credit losses** while maximizing profitability. The company must balance two critical aspects:  
 unnecessary rejections.  
 1. **Identifying high-risk applicants** to prevent financial losses due to defaults.  
