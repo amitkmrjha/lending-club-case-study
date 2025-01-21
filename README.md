@@ -53,7 +53,7 @@ Give credit here.
 
 
 ## Contact
-Created by @amitkmrjha & @tuyettu1712 - feel free to contact any one of us!
+Created by [@amitkmrjha](https://github.com/amitkmrjha) & [@tuyettu1712](https://github.com/tuyettu1712) - feel free to contact any one of us!
 
 
 <!-- Optional -->
